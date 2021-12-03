@@ -7,4 +7,30 @@
 AA的所有字体都是无段落格式的Saitamaar.ttf字体。因此，在进行AA制作时请注意这两点。
 ### 1.	离线编辑器
 离线编辑可以将内容随时保存在电脑内。任何可以编辑纯文本的编辑器都可以进行AA制作，这里推荐记事本。
+
 ![A](/pic/A.png)
+
+记事本编辑视图如上。需要设置成UTF-8编码，字体采用Saitamaar.ttf字体。
+
+![B](/pic/B.png)
+![C](/pic/C.png)
+
+记事本只能进行基础的文字和排版修改。要做字体特效以及截图导出，请使用在线编辑器以达到最好效果。
+### 2.  在线编辑器
+在线编辑器指基于html的网页在线AA编辑。由于运行受浏览器和内存等限制，在文本量大的时候卡顿严重甚至崩溃，建议离线编辑好后使用。
+> 在线编辑器为以下两个网站：[TinyMCE Online Editor](https://crossingworld.hopto.org/tinymce/TinyMCE-Online-Editor-master/editorstart.html )以及[AA Grade Megane - AA editor](http://temple.wo.tc/aa/editor/)。
+
+![D](/pic/D.png)
+
+AA Grade Megane是一个韩语AA编辑界面，大多数情况下可以裸连。有时候会不稳定，容易崩溃。
+
+![E](/pic/E.png)
+
+TinyMCE Online Editor是由翻译群的@竹笋村民 大大自己开发的全中文编辑器。和前一个相比有自动保存功能，在关掉网页重新打开时会还原之前的编辑进度。缺点是走github和google api，部分地区需要梯子链接，建议白嫖试用流量类型，网页加载好后关掉梯子即可，不影响自动保存和导出。
+
+在线编辑器不需要自己调整字体和段落，功能不多介绍，自己尝试一下即可明白操作。这里着重介绍导出html。
+
+所有已发布的AA漫画截图均采用导出html后网页截图的方式。因此，我们编辑完后只需导出html即可。
+
+两种编辑器导出html方法分别如下。
+
